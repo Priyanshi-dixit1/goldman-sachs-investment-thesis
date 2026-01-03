@@ -23,4 +23,12 @@ The objective is to simulate real-world analyst thinking and support evidence-ba
 - `thesis/` – written investment thesis and executive summary
 
 ## Status
-Project setup phase – data collection and analysis to follow.
+Project setup phase – data collection and analysis to follow. 
+
+## Roadmap
+- Environment setup and repository initialization
+- Data collection and cleaning
+- Financial and risk analysis
+- Valuation assessment
+- Investment thesis formulation
+
